@@ -1,0 +1,10 @@
+.\user_keypress.o: ..\user\user_keypress.c
+.\user_keypress.o: ..\user\user_keypress.h
+.\user_keypress.o: ..\user\user_type.h
+.\user_keypress.o: ..\STM32F0_Discovery_Library\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_gpio.h
+.\user_keypress.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\stm32f0xx.h
+.\user_keypress.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h
+.\user_keypress.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\user_keypress.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h
+.\user_keypress.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h
+.\user_keypress.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\system_stm32f0xx.h

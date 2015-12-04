@@ -1,0 +1,10 @@
+.\user_gpio.o: ..\user\user_gpio.c
+.\user_gpio.o: ..\user\user_gpio.h
+.\user_gpio.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\stm32f0xx.h
+.\user_gpio.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h
+.\user_gpio.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\user_gpio.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h
+.\user_gpio.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h
+.\user_gpio.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\system_stm32f0xx.h
+.\user_gpio.o: ..\STM32F0_Discovery_Library\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_gpio.h
+.\user_gpio.o: ..\STM32F0_Discovery_Library\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_rcc.h

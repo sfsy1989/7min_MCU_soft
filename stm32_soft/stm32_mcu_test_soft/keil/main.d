@@ -1,0 +1,15 @@
+.\main.o: ..\main.c
+.\main.o: ..\uart.h
+.\main.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\stm32f0xx.h
+.\main.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h
+.\main.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\main.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h
+.\main.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h
+.\main.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\system_stm32f0xx.h
+.\main.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\main.o: ..\STM32F0_Discovery_Library\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_gpio.h
+.\main.o: ..\STM32F0_Discovery_Library\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_rcc.h
+.\main.o: ..\user_i2c.h
+.\main.o: ..\STM32F0_Discovery_Library\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_adc.h
+.\main.o: ..\STM32F0_Discovery_Library\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_tim.h
+.\main.o: ..\STM32F0_Discovery_Library\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_misc.h

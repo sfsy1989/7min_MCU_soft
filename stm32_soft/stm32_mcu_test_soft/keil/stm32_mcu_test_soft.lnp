@@ -1,0 +1,18 @@
+--cpu Cortex-M0
+".\main.o"
+".\uart.o"
+".\user_i2c.o"
+".\system_stm32f0xx.o"
+".\stm32f0xx_gpio.o"
+".\stm32f0xx_i2c.o"
+".\stm32f0xx_rcc.o"
+".\stm32f0xx_usart.o"
+".\startup_stm32f0xx.o"
+".\stm32f0xx_adc.o"
+".\stm32f0xx_it.o"
+".\stm32f0xx_misc.o"
+".\stm32f0xx_tim.o"
+--strict --scatter ".\stm32_mcu_test_soft.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\stm32_mcu_test_soft.map" -o .\stm32_mcu_test_soft.axf

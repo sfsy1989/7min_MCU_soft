@@ -1,0 +1,17 @@
+.\stm32f0xx_i2c_cpal.o: ..\STM32F0xx_CPAL_Driver\src\stm32f0xx_i2c_cpal.c
+.\stm32f0xx_i2c_cpal.o: ..\STM32F0xx_CPAL_Driver\inc\stm32f0xx_i2c_cpal.h
+.\stm32f0xx_i2c_cpal.o: ..\STM32F0xx_CPAL_Driver\inc\stm32f0xx_i2c_cpal_hal.h
+.\stm32f0xx_i2c_cpal.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\stm32f0xx.h
+.\stm32f0xx_i2c_cpal.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h
+.\stm32f0xx_i2c_cpal.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\stm32f0xx_i2c_cpal.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h
+.\stm32f0xx_i2c_cpal.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h
+.\stm32f0xx_i2c_cpal.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\system_stm32f0xx.h
+.\stm32f0xx_i2c_cpal.o: ..\STM32F0_Discovery_Library\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_i2c.h
+.\stm32f0xx_i2c_cpal.o: ..\STM32F0_Discovery_Library\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_dma.h
+.\stm32f0xx_i2c_cpal.o: ..\STM32F0_Discovery_Library\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_gpio.h
+.\stm32f0xx_i2c_cpal.o: ..\STM32F0_Discovery_Library\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_rcc.h
+.\stm32f0xx_i2c_cpal.o: ..\STM32F0_Discovery_Library\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_misc.h
+.\stm32f0xx_i2c_cpal.o: ..\STM32F0xx_CPAL_Driver\inc\stm32f0xx_i2c_cpal.h
+.\stm32f0xx_i2c_cpal.o: ..\STM32F0xx_CPAL_Driver\inc\stm32f0xx_i2c_cpal_hal.h
+.\stm32f0xx_i2c_cpal.o: ..\STM32F0xx_CPAL_Driver\inc\stm32f0xx_i2c_cpal_conf.h

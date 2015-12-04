@@ -1,0 +1,14 @@
+.\uart.o: ..\user\uart.c
+.\uart.o: ..\user\uart.h
+.\uart.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\stm32f0xx.h
+.\uart.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cm0.h
+.\uart.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+.\uart.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmInstr.h
+.\uart.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.0\CMSIS\Include\core_cmFunc.h
+.\uart.o: C:\Keil_v5\ARM\PACK\Keil\STM32F0xx_DFP\1.4.0\Device\Include\system_stm32f0xx.h
+.\uart.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdio.h
+.\uart.o: C:\Keil_v5\ARM\ARMCC\bin\..\include\stdarg.h
+.\uart.o: ..\STM32F0_Discovery_Library\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_gpio.h
+.\uart.o: ..\STM32F0_Discovery_Library\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_usart.h
+.\uart.o: ..\STM32F0_Discovery_Library\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_misc.h
+.\uart.o: ..\STM32F0_Discovery_Library\STM32F0xx_StdPeriph_Driver\inc\stm32f0xx_rcc.h
